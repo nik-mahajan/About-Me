@@ -1,0 +1,72 @@
+.taby {
+    color:rgb(245, 245, 245) !important;
+    font-size: larger;
+}
+
+.taby:hover {
+    background-color: rgb(147, 192, 251) !important;
+    cursor: pointer;
+}
+
+#orgname {
+ font-size: x-large !important;
+ color:aquamarine !important;
+ font-stretch: ultra-expanded;
+}
+
+.ml-3 {
+    margin-left: 35% !important;
+}
+
+.pt-3{
+    padding-top: 40% !important;
+}
+
+.mt-1{
+    margin-top: 1% !important;
+}
+
+#ngolist a {
+    font-size:xx-large;
+    display:block;
+    /* border:3px solid black; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    margin-right:300px ;
+    background-color: rgb(251, 240, 222);
+    text-align: center;
+    width: 400px;
+  }
+
+  #ngolist {
+    list-style: none;
+    /* border:3px solid red; */
+    margin-top: 100px;
+  }
+
+  #searchitem {
+    padding-left: 35%;
+    margin-top: 100px;
+  }
+  
+  #Search[type=text]{
+    /* width:300px; */
+    width: 400px;
+    height:25px;
+    padding-left: 10px;
+    /* border-radius:3px; */
+    border: 1px solid black;
+}
+
+
+/* body{
+    background-image:url('bg.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+
+  } */
+
+  .boxhome{
+      border: 2px solid black;
+  }
